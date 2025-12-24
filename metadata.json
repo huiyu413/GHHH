@@ -1,0 +1,7 @@
+{
+  "name": " 企业财务管理系统1",
+  "description": "一个为小微企业设计的全功能财务管理平台，涵盖会计报表、凭证管理、供应商与订单跟踪以及AI财务分析。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
